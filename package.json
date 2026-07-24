@@ -1,0 +1,14 @@
+{
+  "name": "opencode-key-guard",
+  "version": "1.0.0",
+  "description": "OpenCode plugin that auto-redacts API keys from chat, stores temporarily for agent use",
+  "main": "key-guard.ts",
+  "keywords": ["opencode", "opencode-plugin", "security", "api-keys", "secrets", "redact"],
+  "author": "sergiofspedro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiofspedro/key-guard"
+  },
+  "files": ["key-guard.ts"]
+}
